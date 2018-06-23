@@ -1,0 +1,46 @@
+.main{
+   display:flex;
+   flex-direction:column-reverse;
+   justify-content:center;
+ }
+ .child1{
+   width:30%;
+   border:1px solid #ddd;
+   padding:2%;
+   margin:2%;
+   background-color: green;
+   border-radius:55px;
+   box-shadow: 3px 3px 3px #ddd;
+ }
+ .child2{
+   width:25%;
+   border:1px solid #ddd;
+   padding:2%;
+   margin:2%;
+   background-color: orange;
+   border-radius:25px;
+   box-shadow: 3px 3px 3px #555;
+ }
+   .child3{
+     width:25%;
+     border:1px solid #ddd;
+     padding:2%;
+     margin:2%;
+     background-color:red;
+     border-radius: :25px;
+     box-shadow: 3px 3px 3px #222;
+
+ }
+img{
+  width:auto;
+  height:auto;
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+  }
+  h1{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
